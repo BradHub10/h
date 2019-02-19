@@ -1,1 +1,8 @@
 gitConfig.text
+
+/files
+
+#for images and gifs
+
+*png
+*gif
